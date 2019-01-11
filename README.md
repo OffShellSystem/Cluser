@@ -10,7 +10,7 @@
 2. Position yourself in the directory where the program has been downloaded.
 3. Grant permissions to the program with the "chmod + x" command.
 4. Run the program with the command "./Cluser.sh".
-# <<<· Remenber --> ¡¡¡ It must be run as root user !!! ·>>>
+<<<· Remenber --> ¡¡¡ It must be run as root user !!! ·>>>
 
 # Thank you for using OffShell System software.
-# For more information visit the web OffShell System.
+- For more information visit the web OffShell System.
